@@ -1,0 +1,16 @@
+io_anim_bvh
+io_curve_svg
+io_mesh_stl
+io_mesh_uv_layout
+io_scene_fbx
+io_scene_gltf2
+io_scene_x3d
+cycles
+pose_library
+add_mesh_extra_objects
+space_view3d_modifier_tools
+object_print3d_utils
+add_mesh_BoltFactory
+mesh_looptools
+object_boolean_tools
+measureit
